@@ -50,9 +50,6 @@ Aggiungi qui screenshot o GIF per mostrare l'app in azione
 Supporto completo alle temperature su tutti i sistemi
 Grafici più dettagliati per rete e disco
 Modalità chiara
-📝 Licenza
-
-Questo progetto è distribuito sotto licenza MIT. Vedi il file LICENSE per maggiori dettagli.
 
 🙌 Ringraziamenti
 
