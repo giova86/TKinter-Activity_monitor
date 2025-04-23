@@ -2,9 +2,9 @@
 
 Un'app desktop moderna scritta in **Python** che mostra in tempo reale l'utilizzo delle risorse di sistema come CPU, RAM, disco, rete e temperatura. Interfaccia grafica basata su `customtkinter` e grafici generati con `matplotlib`.
 
-![screenshot](https://your-screenshot-url-here.com) <!-- Sostituisci con uno screenshot se disponibile -->
-
----
+<p align="center">
+  <img src="images/title.png" width="600">
+</p>  
 
 ## 🚀 Caratteristiche
 
